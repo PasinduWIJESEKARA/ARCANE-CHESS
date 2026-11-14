@@ -1,0 +1,6 @@
+{
+  "name": "ARCANE — Original Wizard Chess",
+  "description": "Stage 01 Visual Development: Monumental Gothic 3D fantasy chess arena featuring original sculpted stone armies in Three.js and WebGL 2.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
